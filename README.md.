@@ -4,7 +4,15 @@
 Versatile professional with 4+ years of experience in administration, operations management, customer service, and direct sales. Skilled in team leadership, client relationship management, and operational efficiency. Currently expanding expertise in **data analysis and machine learning (Azure ML)** to complement my administrative and HR background.
 
 ---
+## 🚀 Featured Technical Projects
 
+### 📁 [PermitFlow AI – Automated Compliance Engine](https://github.com/otuinyang419/PermitFlow-AI)
+* **Core Tech:** Python, Pandas, PDFPlumber, Data Pipelines
+* **The Solution:** Architected an automated data extraction engine that processes unstructured municipal building permit applications, parses key data structures, and automatically isolates non-compliant records for regulatory review.
+
+### 🧪 [Azure Machine Learning Predictive Pipelines](https://github.com/otuinyang419/3MTT-Deep-learning-pipelines-execution)
+* **Core Tech:** Azure ML Designer, Python, Predictive Modeling, Regression Analysis
+* **The Solution:** Built end-to-end cloud diagnostics pipelines utilizing data ingestion from Azure Blob Storage. Optimized model training across multiple algorithms (Boosted Decision Trees, Linear Regression) to analyze high-dimensional medical datasets.
 ## 💼 Work Experience
 - **Direct Sales Agent – FCMB**
   - Prospected and onboarded new customers for retail banking products.
@@ -40,8 +48,9 @@ Versatile professional with 4+ years of experience in administration, operations
 - AI Augmented Professional Development – ALX Career Essentials
 - Administrative Foundation – LinkedIn
 - Entrepreneurship – LinkedIn
-- Health, Safety, Security & Environment – Learn to Live Business School
 - Large Language Models & AI – ALX
+Python Coding, Part 1 Certificate issued by MIT Open Learning
+Introduction to Universal AI Certificate issued by MIT Open Learning 
 - Data Analysis & Machine Learning (Azure ML) – In view
 
 ---
